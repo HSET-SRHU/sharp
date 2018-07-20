@@ -1,0 +1,113 @@
+.wy-nav-content-wrap {
+    background-image: url("../img/swan.png");
+    background-position: -20px bottom;
+    background-size: 20% auto;
+    background-repeat: no-repeat;
+}
+
+.wy-side-nav-logo {
+    padding: 20px;
+    background-color: #fff;
+    text-align: center;
+}
+.wy-side-nav-search {
+    margin-bottom: 30px;
+	background-color: #333;
+}
+.wy-side-nav-search input[type=text] {
+    border-color: #eee;
+}
+
+
+.wy-side-nav-search>a, .wy-side-nav-search .wy-dropdown>a {
+    color: #e8750f;
+    font-size: 25px;
+    font-weight: bold;
+    display: inline-block;
+    padding: 10px 10px;
+    margin-bottom: 0.809em;
+}
+.wy-side-nav-search img {
+    display: block;
+    margin: auto auto 0.809em auto;
+    width: 100px;
+    height: auto;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 0;
+    border-radius: 0;
+}
+
+
+h2,h3          {margin:0.5em 0 0.25em 0; display:block;
+  font-family: 'Titillium Web:700', sans-serif;}
+h4,h5,h6       {margin:0.5em 0 0.25em 0; display:block;
+  font-family: 'Titillium Web:600i', sans-serif;}
+h1 {margin:0.5em 0 0.25em 0; display:block;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 48px;
+  font-weight: bold;
+  color:DeepSkyBlue;}
+input:focus, .form-control:focus {
+    border-color: #84d213;
+    background-color: #e2ecf1 ;
+    -webkit-box-shadow: none;
+    box-shadow: 10px 10px 5px #c6e6f3;
+}
+body,form,table,tr,td,label,th,html {font-family: 'Titillium Web';}
+
+
+
+.wy-menu-vertical a {
+    display: inline-block;
+    line-height: 22px;
+    padding: 0.4045em 1.618em;
+    display: block;
+    position: relative;
+    font-size: 16px;
+    color: #2b9be4;
+}
+.wy-menu-vertical li.current a {
+    color: #0895f1;
+    background-color: #e7f2fa;
+    border-right: 5;
+}
+
+.wy-menu-vertical header, .wy-menu-vertical p.caption {
+    height: 32px;
+    display: inline-block;
+    line-height: 12px;
+    text-transform: uppercase;
+    font-size: 120;
+    color: #1980c3;
+}
+
+wy-menu-vertical li.current a:hover {
+    color: #319ce2;
+    background: rgb(170, 255, 251);
+}
+.wy-menu-vertical li.current > a {
+    color: #0882f3;
+    background-color: #9cc9ea;
+    border-top: 0;
+    border-bottom: 0;
+}
+
+
+.wy-menu-vertical li.current li>a {
+    display: block;
+    background: #333;
+    padding: 0.1045em 3.045em;
+}
+
+.wy-side-nav-search>a:hover, .wy-side-nav-search .wy-dropdown>a:hover {
+    background: rgb(106, 176, 222);
+    color: #0f323e;
+}
+
+a:visited {
+    color: #66b9eb;
+}
+
+bluetext:
+  parent: bodytext
+  textColor: blue
