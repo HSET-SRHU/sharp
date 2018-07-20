@@ -5,8 +5,8 @@
     :alt: Swami Rama Himalayn University
     
 
-Research Projects Portal1
-=========================
+Research Projects Portal
+========================
 
 
 .. toctree::
