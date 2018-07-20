@@ -5,13 +5,13 @@
     :alt: Swami Rama Himalayn University
     
 
-Research Projects Portal
-========================
+SRHU Acedemic Research Projects Portal [SHARP]
+==============================================
 
 
 .. toctree::
    :maxdepth: 3
-   :caption: Research Projects Portal
+   :caption: SHARP Portal
    
    login/index
    Dashboard/User_home_page
