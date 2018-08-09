@@ -25,8 +25,8 @@ This is a normal text paragraph again.
 =================
 This is a heading
 =================
-.. seealso:: 
 
+.. seealso:: 
         This is a simple **seealso** note. Other inline directive may be included (e.g., math :math:`\alpha`) but not al of them.
 
 
