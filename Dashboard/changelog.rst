@@ -6,21 +6,43 @@ Change #1
 =========
 
 **Description:**
-              that the indentation is removed.
+              add employee number in user record, Add Title Dr. MR. Etc...
 **Controller and Function:**
-              dlsklsd
+              None
 
 **Model:**
-              sdksld
+              auth_user 
 
 **Other:**
-              dsldksd
+              None
                   
 **Code Changes:**
 .. code-block:: 
     
 
 **Date:**
-            08/12/12
+            15/07/18
+
+Change #2
+=========
+
+**Description:**
+              Capitlize the user first and last name
+**Controller and Function:**
+              remove standard appadmin function and add new customized function
+
+**Model:**
+              None
+
+**Other:**
+              None
+                  
+**Code Changes:**
+.. code-block:: 
+    
+
+**Date:**
+            16/07/18
 
 
+            
