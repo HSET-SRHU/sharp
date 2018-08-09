@@ -11,10 +11,10 @@ SHARP Application Change Log
 +------------------------+------------+----------+----------+
 Change #1::
 
-   **Description:**
-     that the indentation is removed.
-   **Controller and Function**  
-    dlsklsd
+   **Description:**::
+      that the indentation is removed.
+   **Controller and Function**:
+      dlsklsd
    **Model**
    sdksld
    **Other**
