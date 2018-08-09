@@ -25,7 +25,17 @@ This is a normal text paragraph again.
 =================
 This is a heading
 =================
-.. seealso:: This is a simple **seealso** note. Other inline directive may be included (e.g., math :math:`\alpha`) but not al of them.
-.. note:: This is a simple **seealso** note. Other inline directive may be included (e.g., math :math:`\alpha`) but not al of them.
-.. warning:: This is a simple **seealso** note. Other inline directive may be included (e.g., math :math:`\alpha`) but not al of them.
-.. todo:: This is a simple **seealso** note. Other inline directive may be included (e.g., math :math:`\alpha`) but not al of them.
+.. seealso:: 
+
+        This is a simple **seealso** note. Other inline directive may be included (e.g., math :math:`\alpha`) but not al of them.
+
+
+.. note:: 
+        This is a simple **seealso** note. Other inline directive may be included (e.g., math :math:`\alpha`) but not al of them.
+        
+.. warning:: 
+        This is a simple **seealso** note. Other inline directive may be included (e.g., math :math:`\alpha`) but not al of them.
+
+
+.. todo:: 
+        This is a simple **seealso** note. Other inline directive may be included (e.g., math :math:`\alpha`) but not al of them.
