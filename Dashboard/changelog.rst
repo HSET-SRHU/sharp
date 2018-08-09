@@ -1,15 +1,9 @@
+============================
 SHARP Application Change Log
 ============================
 
-+------------------------+------------+----------+----------+
-| Sr. No.                | Header 2   | Header 3 | Header 4 |
-|                        |            |          |          |
-+========================+============+==========+==========+
-| body row 1, column 1   | column 2   | column 3 | column 4 |
-+------------------------+------------+----------+----------+
-| body row 2             | ...        | ...      |          |
-+------------------------+------------+----------+----------+
 Change #1::
+===========
 
    **Description:**::
       that the indentation is removed.
@@ -24,6 +18,14 @@ Change #1::
    **Date:**
 
 This is a normal text paragraph again.
+.. note::
+        Your note should consist of one or more paragraphs, all indented
+        so that they clearly belong to the note and not to the text or
+        directive that follows.
 =================
 This is a heading
 =================
+.. seealso:: This is a simple **seealso** note. Other inline directive may be included (e.g., math :math:`\alpha`) but not al of them.
+.. note:: This is a simple **seealso** note. Other inline directive may be included (e.g., math :math:`\alpha`) but not al of them.
+.. warning:: This is a simple **seealso** note. Other inline directive may be included (e.g., math :math:`\alpha`) but not al of them.
+.. todo:: This is a simple **seealso** note. Other inline directive may be included (e.g., math :math:`\alpha`) but not al of them.
