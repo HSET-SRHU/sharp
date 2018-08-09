@@ -18,15 +18,15 @@ Change #1
                   
    **Code Changes:**
  .. code-block:: 
-    :linenos:
-                     import datetime
+                      import datetime
                       import math
                       def index(): return dict(message="hello from Project_List.py")
 
 
                       @auth.requires_login()
                       def All_Projects():
-                          gridanchor =A(SPAN(_class='glyphicon glyphicon-paperclip')+('Grid View'),_href=URL('Projects','List_Projects'),_class='btn btn-info') or ''
+                          gridanchor =A(SPAN(_class='glyphicon glyphicon-paperclip')+
+                          ('Grid View'),_href=URL('Projects','List_Projects'),_class='btn btn-info') or ''
                           if (request.vars.myprojects == 'myprojects'):
                              var_heading= 'My'
                              query = (db.Projects.Name_of_PI == auth.user_id)
@@ -40,7 +40,8 @@ Change #1
                                   query = ((db.Projects.End_Date <= next_week_saturday)&(db.Projects.Project_Status == 'In Progress'))
                               else:
                                   var_heading=request.vars.Project_Status
-                                  query = ((db.Projects.End_Date <= next_week_saturday)&(db.Projects.Project_Status == 'In Progress')&(db.Projects.Name_of_PI == auth.user_id))
+                                  query = ((db.Projects.End_Date <= next_week_saturday)&
+                                  (db.Projects.Project_Status == 'In Progress')&(db.Projects.Name_of_PI == auth.user_id))
 
                           else:
                               query = (db.Projects)
