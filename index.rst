@@ -16,3 +16,4 @@ SRHU Acedemic Research Projects Portal [SHARP]
    login/index
    Dashboard/User_home_page
    Dashboard/Admin_home_page
+   Dashboard/changelog
