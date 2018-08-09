@@ -9,12 +9,19 @@ SHARP Application Change Log
 +------------------------+------------+----------+----------+
 | body row 2             | ...        | ...      |          |
 +------------------------+------------+----------+----------+
-This is a normal text paragraph. The next paragraph is a code sample::
+Change #1::
 
-   It is not processed in any way, except
-   that the indentation is removed.
-
+   **Description:**
+     that the indentation is removed.
+   **Controller and Function**  
+    dlsklsd
+   **Model**
+   sdksld
+   **Other**
+   dsldksd
+   **Code Changes:**
    It can span multiple lines.
+   **Date:**
 
 This is a normal text paragraph again.
 =================
