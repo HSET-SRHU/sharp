@@ -2,65 +2,11 @@
 SHARP Application Change Log
 ============================
 
-Change #1.1
-===========
-Modify user module to have - 
+List of changes
+===============
 
-1. Employee number
-
-2. Title
-
-3. User name is now title case
-
-4. User self registration screen is redesinged for these changes.
-
-Change #1.2
-===========
-Publication Module
-
-1.  Module and database modified to have "Case Report" as an option along side Research paper and Revoew Article
-
-Change #1.3
-===========
-
-PhD module 
-
-1. UG and PG dissertation added as options along side PhD. 
-
-2. This new option is visible while creating
-
-    2.1  New PhD / UG Dissertation/ PG Dissertation
-
-    2.2  List PhD / UG Dissertation/ PG Dissertation
-
-    2.3  Download PhD / UG Dissertation/ PG Dissertation
-
-Change #1.4
-===========
-Download Other module
-
-1. Down other onscreen option literal modified 
-
-2. Down load controller function modified to have  UG Dissertation/ PG Dissertation
-
-Change #1.5
-===========
-Book and Publication Module
-
-1. Corresponding author added as addition field
-
-2. Co Auther external Also added as free form text field
-
-Change #1.6
-===========
-Project Module
-
-1. New field added for External CO PI
-
-Change #1.7
-===========
-User Home Page 
-
-1. Edit options now avaliable in all tabs for editing project/publication/books.. etc.
-
-            
+.. toctree::
+   :maxdepth: 3
+   :caption: content
+   
+   changes/101018
