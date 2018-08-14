@@ -62,6 +62,6 @@ User Home Page
 
 1. Edit options now avaliable in all tabs for editing project/publication/books.. etc.
 
-=========================================================
-=========================================================
+Changes:
+
 .. image:: Sharp_Changes_1.jpg
