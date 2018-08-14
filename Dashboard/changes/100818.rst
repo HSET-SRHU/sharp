@@ -62,6 +62,15 @@ User Home Page
 
 1. Edit options now avaliable in all tabs for editing project/publication/books.. etc.
 
+Change #1.8
+===========
+Email Copy to Dean Research
+
+1. Emails to be copied to Dean CC only for new user creation
+
+2. All other Emails to be sent to user only. 
+
+
 Changes:
 
 .. image:: Sharp_Changes_1.jpg
