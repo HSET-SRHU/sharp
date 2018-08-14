@@ -1,7 +1,6 @@
-=========================================
-SHARP Application Change Log - 10-08-2018
-=========================================
-
+==========================
+Change Log #1 - 10-08-2018
+==========================
 Change #1.1
 ===========
 Modify user module to have - 
@@ -18,7 +17,7 @@ Change #1.2
 ===========
 Publication Module
 
-1.  Module and database modified to have "Case Report" as an option along side Research paper and Revoew Article
+1.  Module and database modified to have "Case Report" as an option along side Research paper and Review Article
 
 Change #1.3
 ===========
