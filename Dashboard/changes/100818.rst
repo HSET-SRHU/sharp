@@ -62,4 +62,4 @@ User Home Page
 
 1. Edit options now avaliable in all tabs for editing project/publication/books.. etc.
 
-.. image:: Sharp_Changes_1.tif
+.. image:: Sharp_Changes_1.jpg
